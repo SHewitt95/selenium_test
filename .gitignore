@@ -3,6 +3,6 @@ Lib/*
 Scripts/*
 selenium/*
 tcl/*
-geckodriver.txt
-pip-selfcheck
+geckodriver.log
+pip-selfcheck.json
 test.txt
